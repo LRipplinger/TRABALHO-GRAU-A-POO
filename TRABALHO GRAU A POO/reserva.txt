@@ -1,0 +1,9 @@
+101,10,12,Denis,I
+102,12,13,Lucas,I
+103,18,22,Carlos,A
+201,10,15,Douglas,A
+202,11,13,Vitoria,A
+203,10,19,Pedro,A
+302,12,13,Larissa,A
+303,10,25,Debora,I
+304,10,22,Luis Eduardo,I

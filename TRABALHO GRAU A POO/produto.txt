@@ -1,0 +1,8 @@
+1,Garrafa de Agua 2L,7.0
+2,Sanduíche,10.0
+3,Cerveja Lata,7.5
+4,Refrigerante 1L,10.0
+5,Chocolate,4.0
+6,Pipoca,5.0
+7,Bolo de chocolate,10.0
+8,Café,5.0
